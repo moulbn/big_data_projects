@@ -1,3 +1,6 @@
 [submodule "spark_intro"]
 	path = spark_intro
 	url = https://github.com/Master-Econometrics-Statistics/spark-rdd-bigdclub.git
+[submodule "spark_dataframes"]
+	path = spark_dataframes
+	url = https://github.com/Master-Econometrics-Statistics/spark-dataframes-bigdclub.git
